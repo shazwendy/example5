@@ -3,7 +3,7 @@ class Circle:
 		self.radius=radius
 		self.area=area
 		self.circumfrance=circumference
-		# self.pie=3.14
+		self.pie=3.14
 
 
 	def area(self,radius,pie):
